@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.canvas-container {
+  border: 1px solid #ccc;
+  margin: 20px auto;
+}
